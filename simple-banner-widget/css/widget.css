@@ -1,5 +1,6 @@
 /* This stylesheet is used to style the public view of the widget. */
 ul.goran_adswidget_ul li {
+	list-style: none;
 	padding: 0;
 	margin-bottom: 15px;
 }
